@@ -10,6 +10,7 @@ public class AttackerAnimal {
     int width;
     int height;
     int tmpNum;
+    
     public AttackerAnimal() {
     }
 }
